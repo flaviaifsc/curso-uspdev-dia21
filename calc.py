@@ -1,4 +1,4 @@
-numero1 = 20
+numero1 = 30
 numero2 = 10
 
 print("soma: ")
