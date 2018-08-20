@@ -6,3 +6,6 @@ print(numero1+numero2)
 
 print("subtracao: ")
 print(numero1-numero2)
+
+print("multiplicacao: ")
+print(numero1*numero2)
